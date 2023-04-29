@@ -1,2 +1,1 @@
-#!/bin/bash
-my repository on shell basics
+0x04-loops_conditions_and_parsing
